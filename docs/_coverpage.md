@@ -1,5 +1,7 @@
+!logo()
 #lang-zhi
 
+>笔记+随笔
+>感谢Mr.keith
 
-笔记+随笔
-感谢Mr.keith
+[github](url)
